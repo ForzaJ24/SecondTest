@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Week days numbers
+
 Console.WriteLine("Hi!Enter a day number");
 int a = Convert.ToInt32(Console.ReadLine());
  if(a==1){Console.WriteLine("Its monday");}
