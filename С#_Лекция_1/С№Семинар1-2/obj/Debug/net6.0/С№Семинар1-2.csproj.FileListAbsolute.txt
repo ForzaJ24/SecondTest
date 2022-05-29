@@ -1,0 +1,15 @@
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\bin\Debug\net6.0\С№Семинар1-2.exe
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\bin\Debug\net6.0\С№Семинар1-2.deps.json
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\bin\Debug\net6.0\С№Семинар1-2.runtimeconfig.json
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\bin\Debug\net6.0\С№Семинар1-2.dll
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\bin\Debug\net6.0\С№Семинар1-2.pdb
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\С№Семинар1-2.csproj.AssemblyReference.cache
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\С№Семинар1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\С№Семинар1-2.AssemblyInfoInputs.cache
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\С№Семинар1-2.AssemblyInfo.cs
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\С№Семинар1-2.csproj.CoreCompileInputs.cache
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\С№Семинар1-2.dll
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\refint\С№Семинар1-2.dll
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\С№Семинар1-2.pdb
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\С№Семинар1-2.genruntimeconfig.cache
+C:\Users\Раиса\Documents\GB\Seminar_19_05\Seminar_19.05.2022\С#_Лекция_1\С№Семинар1-2\obj\Debug\net6.0\ref\С№Семинар1-2.dll
