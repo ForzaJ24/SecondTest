@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// From 1 to 234
 Console.WriteLine("Hello, World!");
 
 int a = 1;
